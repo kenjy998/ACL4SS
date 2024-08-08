@@ -19,6 +19,9 @@ DOMAIN-SUFFIX,twdvd.com
 DOMAIN-SUFFIX,unsplash.com
 DOMAIN-SUFFIX,xn--i2ru8q2qg.com
 DOMAIN-SUFFIX,yunpanjingling.com
+DOMAIN-SUFFIX,short.weixin.qq.com
+DOMAIN-SUFFIX,long.weixin.qq.com
+DOMAIN-SUFFIX,dns.weixin.qq.com
 
 # 国外域名
 DOMAIN-SUFFIX,eu
